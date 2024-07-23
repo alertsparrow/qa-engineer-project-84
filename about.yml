@@ -1,5 +1,5 @@
 ---
-name: Ilona Maskova
+name: Andrei Vorobev
 job: QA Engineer
 level: junior
 email: ilona@hexlet.io
@@ -10,6 +10,5 @@ description: |
 skills: 
   - Функциональное тестирование
   - Написание багрепортов
-  - Linux
-  - Слепая печать
-  - Английский язык C1
+  - Linux  
+  - Английский язык A0
