@@ -4,7 +4,7 @@
   status: pass
 
 - summary: |
-    Проверка поиска товаров по ключевому слову Cream
+    Проверка поиска по ключевому слову
   status: pass
 
 - summary: |
